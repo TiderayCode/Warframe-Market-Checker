@@ -11,7 +11,7 @@ class App(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("API Grid Viewer")
-        self.geometry("800x600")
+        self.geometry("1500x800")
 
         self.mode = "items"           # either 'items' or 'orders'
         self.slugs = []                # list of slug strings

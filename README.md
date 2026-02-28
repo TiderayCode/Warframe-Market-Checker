@@ -1,3 +1,8 @@
+# Please ignore for now
+This is an ongoing project and is primary greated by the inbuilt AI agent
+Further developments to come
+
+
 # API Grid Viewer
 
 This simple Python desktop app fetches data from a public API and displays the returned items in a grid with filtering support. It's built using `tkinter` and `requests`.

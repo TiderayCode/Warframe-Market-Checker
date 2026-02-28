@@ -1,5 +1,5 @@
 # Please ignore for now
-This is an ongoing project and is primary greated by the inbuilt AI agent
+This is an ongoing project and is primarily created by the inbuilt AI agent
 Further developments to come
 
 
